@@ -2,8 +2,8 @@ nickname = "Deku"
 target_role = "AI应用开发相关岗位"
 
 days = 90
-min_hours_per_day =2
-mix_hours_per_day = 5
+min_hours_per_day = 2
+max_hours_per_day = 5
 
 min_total_hours = days * min_hours_per_day
 max_total_hours = days * max_hours_per_day
