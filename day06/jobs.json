@@ -1,0 +1,63 @@
+[
+  {
+    "title": "AI应用助理",
+    "company": "阿里巴巴",
+    "city": "深圳",
+    "salary_min": 6000,
+    "salary_max": 12000,
+    "skills": [
+      "Python",
+      "RAG",
+      "SQL"
+    ]
+  },
+  {
+    "title": "数据分析师",
+    "company": "火山",
+    "city": "北京",
+    "salary_min": 5000,
+    "salary_max": 8000,
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "title": "AI应用助理",
+    "company": "腾讯",
+    "city": "深圳",
+    "salary_min": 8000,
+    "salary_max": 15000,
+    "skills": [
+      "Python",
+      "RAG",
+      "SQL",
+      "vs code"
+    ]
+  },
+  {
+    "title": "AI应用生成师",
+    "company": "小米",
+    "city": "武汉",
+    "salary_min": 8000,
+    "salary_max": 16000,
+    "skills": [
+      "Python",
+      "RAG",
+      "SQL"
+    ]
+  },
+  {
+    "title": "AI工程师",
+    "company": "月之暗面",
+    "city": "北京",
+    "salary_min": 7000,
+    "salary_max": 13000,
+    "skills": [
+      "Python",
+      "RAG",
+      "SQL"
+    ]
+  }
+]
